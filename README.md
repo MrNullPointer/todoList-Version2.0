@@ -1,6 +1,6 @@
 # todoList-Version2.0
 
-Created a todo list website - Includes fucntionality of deleting and adding items. We can also create multiple lists.
+-----Created a todo list website - Includes fucntionality of deleting and adding items. We can also create multiple lists.
 
 Express.js is used for the back-end, together with MongoDB database software to store data from all the lists. HTML and CSS is used for the front-end
 
